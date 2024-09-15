@@ -10,7 +10,7 @@ export default function Home() {
       <Navigation />
       <div className="pt-6">Hello, first stream translation</div>
       <iframe
-        src="https://player.twitch.tv/?channel=youmustdie123&parent=germangrib.github.io/Test-Streaming//&muted=true"
+        src="https://player.twitch.tv/?channel=youmustdie123&parent=germangrib.github.io&muted=true"
         height="600"
         width="800"
         allowFullScreen
